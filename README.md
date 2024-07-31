@@ -1,1 +1,1 @@
-# QA_Proj_Cypress_GloboEsporte
+# QA_Proj_Cypress_CorinthiansPaulista
