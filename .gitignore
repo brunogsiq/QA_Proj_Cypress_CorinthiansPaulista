@@ -2,6 +2,12 @@ downloads
 screenshoots
 videos
 
+node_modules/
+videos/
+screenshoot/
+report/
+
+
 # Logs
 logs
 *.log
